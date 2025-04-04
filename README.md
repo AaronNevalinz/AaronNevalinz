@@ -1,4 +1,4 @@
 ### Hi there 👋 My name is Aaron Nevalinz
 
-I am a full stack developer and developer advocate! 
+Java. Java SpringBoot. ReactJs. Php/Laravel. Postgresql. pl/sql. Javascript.  
 
